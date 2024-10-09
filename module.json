@@ -1,0 +1,13 @@
+{
+    "name": "ACL",
+    "alias": "acl",
+    "description": "",
+    "keywords": [],
+    "priority": 300,
+    "providers": [
+        "Modules\\ACL\\Providers\\ACLServiceProvider"
+    ],
+    "files": [
+        "helpers.php"
+    ]
+}
